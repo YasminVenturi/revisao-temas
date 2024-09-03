@@ -10,7 +10,7 @@ const HomeScreen = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Yaas diz oi!</Text>
+      <Text style={styles.text}>Yasmin diz oiii!</Text>
       <TrocaTema />
     </View>
   );
